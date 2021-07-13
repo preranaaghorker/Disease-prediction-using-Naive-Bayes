@@ -1,1 +1,1 @@
-# Disease-prediction-using-Naive-Bayes
+# Disease-Prediction-Using-Naive-Bayes
